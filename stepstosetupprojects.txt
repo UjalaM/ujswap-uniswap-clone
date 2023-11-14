@@ -1,0 +1,5 @@
+1. cd client -> install next js app
+2. cd studio -> npm install -g @sanity/cli
+    sanity init --coupon cleverprogrammer     => cleverprogrammer validated = > enter project-name
+3. after creating schema 
+    - cd studio run sanity => compiles schema and buils the schema on localhost: 3333
